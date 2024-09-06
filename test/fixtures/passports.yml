@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  number: MyString
+  dateofissue: 2024-09-06 11:35:43
+  dateofexpiry: 2024-09-06 11:35:43
+  person: one
+  country: one
+
+two:
+  number: MyString
+  dateofissue: 2024-09-06 11:35:43
+  dateofexpiry: 2024-09-06 11:35:43
+  person: two
+  country: two
